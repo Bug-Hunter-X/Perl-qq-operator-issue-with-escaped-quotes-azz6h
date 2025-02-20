@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating a subtle issue with the qq operator when dealing with strings containing escaped double quotes. The bug.pl file shows the problem, and bugSolution.pl provides a corrected version.
